@@ -1,0 +1,62 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Open Sans";
+}
+
+.navbar {
+   bottom-margin: 20px;
+}
+
+.navbar-inverse .navbar-brand {
+  font-weight: bold;
+  color: #999;
+}
+
+.page-header {
+  border-bottom-color: #ccc;
+}
+
+.mec-header {
+  margin-top: 60px;
+  background-color: #D4A8C6;
+}
+
+.mec-title-text {
+  padding: 20px;
+}
+
+.mec-main {
+  max-width: 900px;
+}
+
+.mec-lectures {
+}
+
+.mec-link-blank:link {
+  color:white;
+  text-decoration: none;
+}
+
+.mec-link-blank:visited {
+  color:white;
+  text-decoration: none;
+}
+
+.mec-link-blank:hover {
+  color:white;
+  text-decoration: none;
+}
+
+.mec-link-blank:active {
+  color:white;
+  text-decoration: none;
+}
+
+.mec-paper-title {
+  margin-top: 40px;
+}
+
+.mec-abstract {
+  text-align: justify;
+}
